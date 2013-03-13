@@ -281,13 +281,13 @@ h2, h3, h4, h5, h6, .title {
 
 /* some margin for middling sceens */
 
-@media only screen and (min-width: 420px) and (max-width: 869px) { 
+/*@media only screen and (min-width: 420px) and (max-width: 869px) { 
 	#invoice { margin: 0 20px }
-}
+}*/
 
 /* layout splits at 600 css pixels */
 
-@media only screen and (min-width: 700px) { 
+/*@media only screen and (min-width: 700px) { */
 	h1 { padding: 10px 0 }
 
 	#header {
@@ -322,4 +322,4 @@ h2, h3, h4, h5, h6, .title {
 	    padding-top: 18px;
 	    font-size: 12px;
 	}
-}
+/*}*/
