@@ -288,7 +288,10 @@ h2, h3, h4, h5, h6, .title {
 /* layout splits at 600 css pixels */
 
 /*@media only screen and (min-width: 700px) { */
-	h1 { padding: 10px 0 }
+	h1 {
+		padding: 10px 0 
+		line-height: 1em;
+	}
 
 	#header {
 	    overflow: hidden;
