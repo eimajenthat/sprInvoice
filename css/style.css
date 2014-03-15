@@ -230,7 +230,10 @@ h2, h3, h4, h5, h6, .title {
 	    background: #fff;
 	}
 
-	.invoice-items tbody td, .invoice-totals tbody td { text-align: left }
+	.invoice-items tbody td, .invoice-totals tbody td { 
+	    text-align: left;
+	    padding-left: 8px;
+	}
 
 	.invoice-items tfoot td, .invoice-totals tfoot td {
 	    text-align: right;
